@@ -1,7 +1,9 @@
-Role Name: Sonarqube
+Role Name: sonarqube
 =========
 
-This ansible role will install jfrog in the aws ec2 using centos7 images.
+This ansible role will sonarqube in the aws ec2 using centos7 images.
+
+[![Build Status](https://travis-ci.org/hemanth22/ansible-role-sonarqube.svg?branch=master)](https://travis-ci.org/hemanth22/ansible-role-sonarqube)
 
 default Username: admin  
 default Password: password  
